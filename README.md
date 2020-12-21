@@ -6,4 +6,4 @@ fun main(){
 }
 ```
 
-[Java code](JAVAREADME.md)
+[Java code](JAVA_README.md)
